@@ -13,6 +13,8 @@
 
 ### I code with
 
+<img align="right" height="215" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"  />
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="Javascript"  />
   <img width="12" />
@@ -32,8 +34,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker"  />
 </div>
-
-<img align="right" height="215" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"  />
 
 ### My Socials
 
